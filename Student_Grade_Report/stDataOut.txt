@@ -1,0 +1,56 @@
+Student Name: Lisa Miller
+Student Id: 890238
+Number of courses enrolled: 4
+Course Numner:  Course Name:   Credits Grades
+CSC478   ComputerSci      66    
+HIS356   History          65    
+MTH345   Mathematics      65    
+PHY357   Physics          66    
+
+Total number of credit hours: 19300334
+Midstream GPA: 0.00
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Student Name: Bill Wilton
+Student Id: 798324
+Number of courses enrolled: 9
+Course Numner:  Course Name:   Credits Grades
+BIO234   Biology          65  ***
+CHM256   Chemistry        67  ***
+CSC478   ComputerSci      66  ***
+ENG378   English          66  ***
+HIS356   History          65  ***
+MTH345   Mathematics      65  ***
+MTH346   Mathematics      67  ***
+PHL534   Philosophy       65  ***
+PHY357   Physics          66  ***
+
+Total number of credit hours: 19298544
+*** Grades are being held for not paying the tution fee***
+Amount Due: Rs1460112795.00
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Student Name: Dandy Goat
+Student Id: 746333
+Number of courses enrolled: 15
+Course Numner:  Course Name:   Credits Grades
+BIO234   Biology          65    
+BUS128   Business         67    
+CHM256   Chemistry        67    
+CHM348   Chemistry        66    
+CSC201   ComputerSci      66    
+CSC478   ComputerSci      66    
+ENG328   English          66    
+ENG378   English          66    
+HIS101   History          65    
+HIS356   History          65    
+MTH137   Mathematics      65    
+MTH345   Mathematics      65    
+MTH346   Mathematics      67    
+PHL534   Philosophy       65    
+PHY357   Physics          66    
+
+Total number of credit hours: 19299787
+Midstream GPA: 0.00
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
